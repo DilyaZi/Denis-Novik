@@ -1,0 +1,123 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url("fonts/Gilroy-Semibold.woff");
+    font-weight: normal;
+}
+
+body {
+    margin-top: 33px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Gilroy';
+    font-size: 18px;
+    color: #828282;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.preview {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    font-family: 'Gilroy';
+    margin-top: 20px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.name {
+    font-size: 47.3392px;
+    color: #070707;
+}
+
+.about {
+    color: #070707;
+    font-size: 18px;
+}
+
+.lang {
+    transform: rotate(-90deg);
+    font-family: 'Gilroy';
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.denisImg {
+    position: absolute;
+    width: 1000px;
+    height: 387px;
+    left: 250.69px;
+    top: 240px;
+}
+
+.About-me {
+    text-align: center;
+    height: 506px;
+    margin-top: 500px;
+    background-color: #F6F6F6;
+    padding: 0px
+}
+
+.Title {
+    line-height: 190px;
+    position: relative;
+    font-family: 'Gilroy';
+    font-size: 34px;
+    margin-bottom: 0px;
+    color: #070707;
+}
+
+.first {
+    font-family: 'Gilroy';
+    font-size: 18px;
+}
+
+.second {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    margin-bottom: 40px;
+    color: #070707;
+}
+
+.Skills {
+    text-align: center;
+    height: 506px;
+}
+
+.appsImg {
+    padding-right: 50px;
+}
+
+.Portfolio {
+    text-align: center;
+    height: 2253px;
+    margin-top: 100px;
+    background-color: #F6F6F6;
+    padding: 0px
+}
+
+.portImg {
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+footer {
+    text-align: center;
+}
+
+.button {
+    border-radius: 42px;
+    background-color: #070707;
+    color: #F6F6F6;
+    padding: 21px 60px;
+    font-size: 18px;
+}
+
+.miniapps {
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
